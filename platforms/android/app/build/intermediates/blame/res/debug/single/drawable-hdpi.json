@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nastc_logo_small.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nastc_logo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_delete.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_delete.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\nastc_logo.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\nastc_logo.png"
+    }
+]

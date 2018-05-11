@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi\\nastc_logo.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\nastc_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi\\nastc_logo_small.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\nastc_logo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-nodpi\\splashscreen.9.png",
+        "source": "C:\\Users\\Varun\\NASTC_PORTAL_APP\\platforms\\android\\app\\src\\main\\res\\drawable-nodpi\\splashscreen.9.png"
+    }
+]

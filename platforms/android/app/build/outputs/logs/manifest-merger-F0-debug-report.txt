@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:3:2-43
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:3:2-43
+	android:versionName
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\F0\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:4:2-25
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\F0\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [:nativescript-optimized:] C:\Users\Varun\.android\build-cache\87e5e549e5835b5476cb90b1192a1c5da033df98\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\Varun\.android\build-cache\f901311f3c9dbb3592043fff4f581cef1f909959\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Varun\.android\build-cache\c53ec7519e738bb0ac6e309bba814026c8775410\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\f39d6689e977ff0db86c269a3415b978682912e0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\54dc2d2b48a43e8c32af5b6e79ee96fa7b9f4140\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Varun\.android\build-cache\a54520c6fc2c7d7f1c7f712511a054a38da9fd90\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Varun\.android\build-cache\f5d2d8167f3a7bc645cafa3c7025f06976fef88a\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Varun\.android\build-cache\07c6d0e8e4ea1c0ebc6512b9903eee9448db2330\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Varun\.android\build-cache\5352f1ce3bc123384aac4d6b29cca99e97022828\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Varun\.android\build-cache\b66b253ef2e07cad539cd6acd08fb644c6f563d8\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Varun\.android\build-cache\d6545e2119abd7d532dc653ad07da393274e5b6e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Varun\.android\build-cache\304627e775ab44ebf7f8d9180fdf86c6b079ef78\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Varun\.android\build-cache\09374305dca8b98c36d9c8da46cbb069f9434850\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\F0\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\F0\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:21:2-39:16
+MERGED from [:widgets-release:] C:\Users\Varun\.android\build-cache\f901311f3c9dbb3592043fff4f581cef1f909959\output\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Varun\.android\build-cache\c53ec7519e738bb0ac6e309bba814026c8775410\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\f39d6689e977ff0db86c269a3415b978682912e0\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\54dc2d2b48a43e8c32af5b6e79ee96fa7b9f4140\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Varun\.android\build-cache\f5d2d8167f3a7bc645cafa3c7025f06976fef88a\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Varun\.android\build-cache\07c6d0e8e4ea1c0ebc6512b9903eee9448db2330\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Varun\.android\build-cache\5352f1ce3bc123384aac4d6b29cca99e97022828\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Varun\.android\build-cache\b66b253ef2e07cad539cd6acd08fb644c6f563d8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Varun\.android\build-cache\d6545e2119abd7d532dc653ad07da393274e5b6e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Varun\.android\build-cache\304627e775ab44ebf7f8d9180fdf86c6b079ef78\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Varun\.android\build-cache\09374305dca8b98c36d9c8da46cbb069f9434850\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:27:3-37:14
+	android:label
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:29:4-49
+	android:configChanges
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:30:4-65
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:28:4-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:32:5-36:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:33:5-57
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:33:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:35:5-65
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:35:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:38:3-57
+	android:name
+		ADDED from C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\src\main\AndroidManifest.xml:38:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Varun\.android\build-cache\c53ec7519e738bb0ac6e309bba814026c8775410\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\f39d6689e977ff0db86c269a3415b978682912e0\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Varun\.android\build-cache\54dc2d2b48a43e8c32af5b6e79ee96fa7b9f4140\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Varun\.android\build-cache\a54520c6fc2c7d7f1c7f712511a054a38da9fd90\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Varun\.android\build-cache\f5d2d8167f3a7bc645cafa3c7025f06976fef88a\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Varun\.android\build-cache\07c6d0e8e4ea1c0ebc6512b9903eee9448db2330\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Varun\.android\build-cache\5352f1ce3bc123384aac4d6b29cca99e97022828\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Varun\.android\build-cache\b66b253ef2e07cad539cd6acd08fb644c6f563d8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Varun\.android\build-cache\d6545e2119abd7d532dc653ad07da393274e5b6e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Varun\.android\build-cache\304627e775ab44ebf7f8d9180fdf86c6b079ef78\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Varun\.android\build-cache\09374305dca8b98c36d9c8da46cbb069f9434850\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Varun\.android\build-cache\e92f0bbb2786a73cfb4f51a3ff36af7f1f17c606\output\AndroidManifest.xml:26:9-47

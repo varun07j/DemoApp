@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\.android\build-cache\87e5e549e5835b5476cb90b1192a1c5da033df98\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="746274223beb11b1cda7854d7eec3038695c2c93">
+        <dex dex="C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\build\intermediates\pre-dexed\debug\classes_f4f08abca83b6f18e1afa3a798f96b46294d7bb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Varun\.android\build-cache\f901311f3c9dbb3592043fff4f581cef1f909959\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\Varun\NASTC_PORTAL_APP\platforms\android\app\build\intermediates\pre-dexed\debug\classes_b822b36534cd09aea332daf43f0b5ef239cef249.jar" />
+    </item>
+
+</items>

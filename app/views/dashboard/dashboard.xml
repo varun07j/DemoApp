@@ -1,0 +1,12 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onPageLoaded">
+    <Page.actionBar>
+        <ActionBar title="PORTAL DASHBOARD" automationText="ActionBar">
+            
+        </ActionBar>
+    </Page.actionBar>
+    <GridLayout class="about-content">
+        <StackLayout>
+            <Label class="about-text" textWrap="true" text="NativeScript is how you build cross-platform, native apps without web views. Use Angular, TypeScript or modern JavaScript to get truly native UI and performance while sharing skills and code with the web. Get 100% access to native APIs via JavaScript and reuse of packages from NPM, CocoaPods and Gradle. Open source and backed by Telerik." />
+        </StackLayout>
+    </GridLayout>
+</Page>
